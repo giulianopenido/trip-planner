@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Mykonos",
+        "countries": ["Greece"],
+        "cities": ["Mykonos"],
+        "startDate": "Apr 01 2020",
+        "endDate": "Apr 10 2020"
+    },
+
+    {
+        "title": "Mochilão MG",
+        "countries": ["Brasil"],
+        "cities": ["Diamantina", "Ouro Preto", "Mariana"],
+        "startDate": "Jan 01 2022",
+        "endDate": "Jan 20 2022"
+    },
+
+    {
+        "title": "Mochilão MG",
+        "countries": ["Brasil"],
+        "cities": ["Diamantina", "Ouro Preto", "Mariana"],
+        "startDate": "Jan 01 2022",
+        "endDate": "Jan 20 2022"
+    },
+
+    {
+        "title": "Mochilão MG",
+        "countries": ["Brasil"],
+        "cities": ["Diamantina", "Ouro Preto", "Mariana"],
+        "startDate": "Jan 01 2022",
+        "endDate": "Jan 20 2022"
+    },
+
+    {
+        "title": "Mochilão MG",
+        "countries": ["Brasil"],
+        "cities": ["Diamantina", "Ouro Preto", "Mariana"],
+        "startDate": "Jan 01 2022",
+        "endDate": "Jan 20 2022"
+    },
+
+    {
+        "title": "Mochilão MG",
+        "countries": ["Brasil"],
+        "cities": ["Diamantina", "Ouro Preto", "Mariana"],
+        "startDate": "Jan 01 2022",
+        "endDate": "Jan 20 2022"
+    },
+
+    {
+        "title": "Mochilão MG",
+        "countries": ["Brasil"],
+        "cities": ["Diamantina", "Ouro Preto", "Mariana"],
+        "startDate": "Jan 01 2022",
+        "endDate": "Jan 20 2022"
+    }
+]

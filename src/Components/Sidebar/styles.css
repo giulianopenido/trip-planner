@@ -1,0 +1,39 @@
+.opened {
+    width: 300px;
+}
+@media screen and (max-width: 768px) {
+    .opened{
+        width: 250px;
+    }
+}   
+
+.toggled {
+    width: 80px;
+    overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+    .toggled {
+        width: 57px;
+    }
+}   
+
+.color-white {
+    color: white;;
+}
+
+.toggle-sidebar-icon {
+    margin-right: 8px;
+}
+
+.open-sidebar-icon {
+    max-width: 51px!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-bottom: 8px!important;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
